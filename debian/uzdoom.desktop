@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=UZDoom
+GenericName=DOOM Source Port
+Comment=Enhanced DOOM Source Port with modern features
+Exec=uzdoom %F
+Icon=uzdoom
+Terminal=false
+Type=Application
+Categories=Game;ActionGame;
+MimeType=application/x-doom-wad;
+Keywords=doom;game;fps;shooter;zdoom;gzdoom;
