@@ -5,4 +5,4 @@ uzdoom (4.14.3-1) unstable; urgency=medium
   * Features: OpenGL/Vulkan rendering, dynamic lighting, 3D floors
   * Includes desktop file and icon
 
- -- UZDoom Team <uzdoom@example.com>  Wed, 15 Jan 2026 19:30:00 +0100
+ -- Actionschnitzel <actionschnitzel@guideos.de>  Wed, 15 Jan 2026 19:30:00 +0100
